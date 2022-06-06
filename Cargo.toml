@@ -37,7 +37,7 @@ rustup-utils = { path = "src/rustup-utils", version = "1.0.0" }
 download = { path = "src/download" }
 error-chain = "0.7.1"
 clap = "2.18.0"
-regex = "0.1.41"
+regex = "1.5.5"
 url = "1.1.0"
 term = "0.4.4"
 itertools = "0.4.1"
