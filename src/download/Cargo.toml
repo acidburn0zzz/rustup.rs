@@ -22,7 +22,7 @@ lazy_static = { version = "0.2", optional = true }
 native-tls = { version = "0.1", optional = true }
 
 [dependencies.hyper]
-version = "0.9.8"
+version = "0.14.12"
 default-features = false
 optional = true
 
@@ -34,7 +34,7 @@ optional = true
 openssl-probe = { version = "0.1", optional = true }
 
 [dependencies.rustls]
-version = "0.1.2"
+version = "0.23.43"
 optional = true
 
 [dependencies.ca-loader]
